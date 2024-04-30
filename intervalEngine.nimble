@@ -1,12 +1,12 @@
 # Package
 
-version       = "0.1.0"
+version       = "1.0.0"
 author        = "David Krause (enthus1ast)"
-description   = "A new awesome nimble package"
+description   = "a module that calls procs in an interval"
 license       = "MIT"
 srcDir        = "src"
 
 
 # Dependencies
 
-requires "nim >= 2.0.2"
+requires "nim >= 1.6.0"
